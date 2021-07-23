@@ -17,7 +17,7 @@
     To get started playing go to: https://intense-chamber-74370.herokuapp.com/
 ## Usage
     To move the player in any direction tap the space bar. Taping the spacebar also fires bullets straight ahead. To turn the player hold down the spacebar. Holding down the spacebar for more than a few seconds launches the player's spin attack.
-[![Watch the video](https://imgur.com/a/UhyLziP.png)](https://drive.google.com/file/d/17jGOKHZr_kmkn3MBYBf0K4gprDRkvvDg/view)
+[![Watch the video](https://imgur.com/l9Ita3u.png)](https://www.youtube.com/watch?v=qcxsNHv2JHw)
 ## Credits
     N/A
 ## License
